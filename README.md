@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/lupael"><img src="https://github-profile-trophy.vercel.app/?username=lupael" alt="lupael" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lupael&show_icons=true&locale=en&layout=compact" alt="lupael" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupael&" alt="lupael" /></p>
 
 - 🔭 I’m currently working on [ISP Billing System for Mikrotik](https://github.com/lupael/ISP-Billing-System) **Private project**
