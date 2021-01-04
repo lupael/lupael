@@ -37,19 +37,14 @@ Hi, I'm Ashik Iqbal Lupael, a passionate self-taught frontEnd web developer and 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lupael&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lupael's github stats" />
 </a>
 <a href="https://github.com/github-readme-stats">
-  <!-- Change the `github-readme-stats.lupael.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupael&layout=compact&theme=material-palenight" />
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupael=compact&theme=material-palenight" />
 </a>
 
-<a href="https://github.com/github-readme-stats">
-  <!-- Change the `github-readme-stats.lupael.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lupael&repo=github-readme-stats&theme=material-palenight" />
+<a href="https://github.com/lupael">
+  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lupael&repo=iptv&theme=material-palenight" />
 </a>    
-<a href="https://github.com/anuraghazra.github.io">
-  <!-- Change the `github-readme-stats.lupael.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lupael&repo=lupael.github.io&theme=material-palenight" />
-</a>
-
 
 
 
