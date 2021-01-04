@@ -1,56 +1,34 @@
-### Hi there, I'm [Lupael!](https://facebook.com/lupael) 👋
+<h1 align="center">Hi 👋, I'm lupael</h1>
+<h3 align="center">A passionate self-taught frontend developer from Bangladesh</h3>
 
-<a href="https://facebook.com/lupael">
-  <img align="left" alt="Ashik Iqbal | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/lupael2">
-  <img align="left" alt="Lupael | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+<p align="left"> <a href="https://github.com/lupael"><img src="https://github-profile-trophy.vercel.app/?username=lupael" alt="lupael" /></a> </p>
 
-<br />
-<br />
+- 🔭 I’m currently working on [ISP Billing System for Mikrotik](https://github.com/lupael/ISP-Billing-System) **Private project**
 
-Hi, I'm Ashik Iqbal Lupael, a passionate self-taught frontEnd web developer and Server admin from Bangladesh.
+- 🌱 I’m currently learning **Angular**
 
-- 🔭 I’m currently working on [ISP Management System](https://github.com/lupael/ISP-Billing-System)
-- 🌱 I’m currently learning Typescript
-- 💬 Ask me about anything [here](https://github.com/lupael/lupael/issues)
+- 👯 I’m looking to collaborate on [cacti](https://github.com/lupael/cacti)
 
-**Languages and Tools:**  
+- 🤝 I’m looking for help with [daloRADIUS](Angular/Radiustest)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+- 👨‍💻 All of my projects are available at [https://github.com/lupael](https://github.com/lupael)
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.lupael.vercel.app` to `github-readme-stats.vercel.app` 
---->
+- 📝 I regularly write articles on [https://dev.i4e.com.bd](https://dev.i4e.com.bd)
 
-<!-- Change the `github-readme-stats.lupael.vercel.app` to `github-readme-stats.vercel.app`  -->
+- 💬 Ask me about **Networking Issue, Mikrotik Configaration, Linux Server**
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
+- 📫 Ask me about anything **[here](https://github.com/lupael/lupael/issues)
 
-<a href="https://github.com/lupael">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lupael&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lupael's github stats" />
-</a>
-
-
-<a href="https://github.com/lupael">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lupael&repo=iptv&theme=material-palenight" />
-</a>    
-
-
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lupael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lupael" height="30" width="40" /></a>
+<a href="https://fb.com/lupael" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="lupael" height="30" width="40" /></a>
+</p>
 im a troubleshooters guy, mostly solve Linux/Mikrotik OS problem, IT Problem, Software or Hardware, my experience in coding, can make me to solve any Programming language bug.
 
 You can see my project in this github
 
-Here my Links:
+Here my professional project:
 
 🤖 FTV & Live TV Server
 
@@ -60,8 +38,8 @@ Here my Links:
 
 🍏 i4E Nonprofit Org
 
-
-What i do
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
 
 🐘 Mostly my project using PHP, because it easy to deploy and my client want me to use it, sometimes PHP only to proof bussines logic and then migrate it to Python or Golang.
 
@@ -98,14 +76,37 @@ What i do
 🔐 i know about IT Security, Penetration system, i am Uncertified Ethical Hacker.
 
 📉 Mostly my project using git, i host public git on Github, private git on Gitlab and Bitbucket. I manage how developer merge the project and do code review.
-I can adapt to new environment and new Technology, i can give solution, i am a troubleshooter, i like to find a bug and fix it, software development is never ending project, always fixing always improving. A Company Hire me to manage and control from Frontend to Backend, to make sure all connected. I create my own automation for building Android Apps and for deployment
+I can adapt to new environment and new Technology, i can give solution, i am a troubleshooter, i like to find a bug and fix it, software development is never ending project, always fixing always improving.
 
-Contacts:
 
-WhatsApp: +8801711928149
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lupael&show_icons=true&locale=en&layout=compact" alt="lupael" /></p>
 
-Facebook: https://facebook.com/lupael
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lupael&show_icons=true&locale=en" alt="lupael" /></p>
 
-Website: https://i4e.com.bd/
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupael&" alt="lupael" /></p>
 
+
+<a href="https://facebook.com/lupael">
+  <img align="left" alt="Ashik Iqbal | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
+<a href="https://twitter.com/lupael2">
+  <img align="left" alt="Lupael | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+
+<br />
+<br />
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+
+<a href="https://github.com/lupael">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lupael&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lupael's github stats" />
+</a>
+ 
 
