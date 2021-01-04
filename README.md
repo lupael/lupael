@@ -12,7 +12,7 @@
 
 Hi, I'm Ashik Iqbal Lupael, a passionate self-taught frontEnd web developer and Server admin from Bangladesh.
 
-- 🔭 I’m currently working on [ISP Management System](https://github.com/timelessco/renderless-components)
+- 🔭 I’m currently working on [ISP Management System](https://github.com/lupael/ISP-Billing-System)
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about anything [here](https://github.com/lupael/lupael/issues)
 
@@ -36,10 +36,7 @@ Hi, I'm Ashik Iqbal Lupael, a passionate self-taught frontEnd web developer and 
 <a href="https://github.com/lupael">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lupael&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lupael's github stats" />
 </a>
-<a href="https://github.com/github-readme-stats">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupael=compact&theme=material-palenight" />
-</a>
+
 
 <a href="https://github.com/lupael">
   <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
