@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Networking Issue, Mikrotik Configaration, Linux Server**
 
-- 📫 Ask me about anything **[here](https://github.com/lupael/lupael/issues)
+- 📫 Ask me about anything **[Here](https://github.com/lupael/lupael/issues)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -95,18 +95,3 @@ I can adapt to new environment and new Technology, i can give solution, i am a t
 
 <br />
 <br />
-
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-
-<a href="https://github.com/lupael">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lupael&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Lupael's github stats" />
-</a>
- 
-
