@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm lupael</h1>
 <h3 align="center">A passionate self-taught frontend developer from Bangladesh</h3>
 
-<p align="left"> <a href="https://github.com/lupael"><img src="https://github-profile-trophy.vercel.app/?username=lupael" alt="lupael" /></a> </p>
+<p align="center"> <a href="https://github.com/lupael"><img src="https://github-profile-trophy.vercel.app/?username=lupael" alt="lupael" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupael&" alt="lupael" /></p>
 
 - 🔭 I’m currently working on [ISP Billing System for Mikrotik](https://github.com/lupael/ISP-Billing-System) **Private project**
 
