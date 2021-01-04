@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm lupael</h1>
 <h3 align="center">A passionate self-taught frontend developer from Bangladesh</h3>
 
-<p align="center"> <a href="https://github.com/lupael"><img src="https://github-profile-trophy.vercel.app/?username=lupael" alt="lupael" /></a> </p>
+<p align="left"> <a href="https://github.com/lupael"><img src="https://github-profile-trophy.vercel.app/?username=lupael" alt="lupael" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lupael&show_icons=true&locale=en&layout=compact" alt="lupael" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lupael&show_icons=true&locale=en" alt="lupael" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupael&" alt="lupael" /></p>
 
 - 🔭 I’m currently working on [ISP Billing System for Mikrotik](https://github.com/lupael/ISP-Billing-System) **Private project**
 
@@ -82,5 +82,5 @@ Here my professional project:
 I can adapt to new environment and new Technology, i can give solution, i am a troubleshooter, i like to find a bug and fix it, software development is never ending project, always fixing always improving.
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lupael&" alt="lupael" /></p>
+
 
