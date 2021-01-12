@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [cacti](https://github.com/lupael/cacti)
 
-- 🤝 I’m looking for help with [daloRADIUS](Angular/Radiustest)
+- 🤝 I’m looking for help with [daloRADIUS](https://github.com/lirantal/daloradius)
 
 - 👨‍💻 All of my projects are available at [https://github.com/lupael](https://github.com/lupael)
 
