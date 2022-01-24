@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [ISP Billing System for Mikrotik](https://github.com/lupael/ISP-Billing-System) **Private project**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **laravel**
 
 - 👯 I’m looking to collaborate on [cacti](https://github.com/lupael/cacti)
 
