@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lupael</h1>
-<h3 align="center">A passionate Networking enthusiast, Mikrotik expert and self-taught frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Networking enthusiast, Mikrotik expert and self-taught backend developer from Bangladesh</h3>
 
 <p align="center"> <a href="https://github.com/lupael"><img src="https://github-profile-trophy.vercel.app/?username=lupael&hide=stars,followers" alt="lupael" /></a> </p>
 
