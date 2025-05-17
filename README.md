@@ -4,7 +4,7 @@
 <p align="center"> <a href="https://github.com/lupael"><img src="https://github-profile-trophy.vercel.app/?username=lupael&hide=stars,followers" alt="lupael" /></a> </p>
 
 
-- 🔭 I’m currently working on [ISP Billing System for Mikrotik](https://ispbills.com) 
+- 🔭 I’m currently working on **ISPbills** [ISP Billing System for Mikrotik](https://ispbills.com) 
 
 - 🌱 I’m currently learning **laravel**
 
@@ -40,7 +40,7 @@ I have 13+ years of experience in senior networking and security positions suppo
 
 🥞 Mostly i use MYSQL/MARIADB.
 
-🥞 i Create i4E ISP Managment System
+🥞 i Create ISPbills ISP Managment System
 
 🥞 i use Redis and ElasticSearch for NOSQL database.
 
@@ -52,11 +52,10 @@ I have 13+ years of experience in senior networking and security positions suppo
 
 📶 Microservices project using Docker, mostly using PHP, python, and golang.
 
-📒 at Work i use Zendesk for managing task, personal i use Redmin.
+📒 at Work i use Zendesk, Intercom and Slacks for managing support and task, personal i use Redmin.
 
 ✈️ i create my own CI/CD using PHP. everytime developer push project to Git, my script will build APK, and send it to Telegram. and auto upload to PlayStore/Appstore when the Branch is Alpha/Beta/Master.
 
-🍓 some of my project i use Raspberry PI as server.
 
 🔐 i know about IT Security, Penetration system, i am Uncertified Ethical Hacker.
 
